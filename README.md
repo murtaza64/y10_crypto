@@ -28,8 +28,10 @@ Your objective is to write a python script that can successfully decode the abov
 Useful functions:
 
 * `ord` returns the ascii value of the inputted character
+
   `ord('b') == 98`
 * `chr` converts an ascii value to a character
+
   `chr(100) == 'd'`
 
 Good luck!
