@@ -52,7 +52,7 @@ Write a caesar encyption script, which will be very similar to the decryption sc
 
 ## Extension
 
-Recall that frequency analysis can be used to break the Caesar cipher efficiently. [Here](http://www.oxfordmathcenter.com/drupal7/node/353) is data about the frequency of letters
+[Frequency analysis](https://learncryptography.com/attack-vectors/frequency-analysis) is a method used to break the Caesar cipher efficiently. It uses the fact that certain letters appear more in the English language to predict the key. [Here](http://www.oxfordmathcenter.com/drupal7/node/353) is data about the frequency of letters
 in the English language. Use this information to write a function that takes in a string (ciphertext) and prints out all possible plaintexts in order of highest probability.
 
 Example output:
