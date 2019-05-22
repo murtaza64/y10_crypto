@@ -10,7 +10,7 @@ No, it's not Polish or Czech, it's an English sentence that's been encrypted usi
 The Caesar cipher works by representing each character from a to z as a number from 0 to 25. 
 Each character in the cipher is replaced with the character obtained by adding the value of the key to its value, wrapping around to the beginning if it gets bigger than 25.
 
-For example, with `key = 3` we get `a → e` and `y → b`. The formula for encryption is `d = (c + k) % 25` where `d` is the index from 0 to 25 of the character after encrypting while `c` is the index of the character to be encrypted.
+For example, with `key = 3` we get `a → e` and `y → b`. The formula for encryption is `d = (c + k) % 26` where `d` is the index from 0 to 25 of the character after encrypting while `c` is the index of the character to be encrypted.
 
 The text before ciphering is called plaintext and encrypted text is called ciphertext.
 
