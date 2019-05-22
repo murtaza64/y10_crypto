@@ -49,3 +49,22 @@ If you run into problems, consider the following:
 ## Goal 3
 
 Write a caesar encyption script, which will be very similar to the decryption script. When you finish, send your friends messages to decrypt!
+
+## Extension
+
+Recall that frequency analysis can be used to break the Caesar cipher efficiently. [Here](http://www.oxfordmathcenter.com/drupal7/node/353) is data about the frequency of letters
+in the English language. Use this information to write a function that takes in a string (ciphertext) and prints out all possible plaintexts in order of highest probability.
+
+Example output:
+
+    Ciphertext: khoor zruog
+
+    Key: 10
+    Probability: 12.7%
+    Plaintext: axeeh phkew
+    
+    Key: 21
+    Probability: 9.1%
+    Plaintext: pmttw ewztl
+    
+    ...(continue for all possible keys)...
