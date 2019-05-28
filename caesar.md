@@ -39,7 +39,7 @@ Good luck!
 
 Decrypt the following text which has been encrypted with caesar cipher key 21:
 
-    Yey ukq aran davn pda pnvcayu kb Yvnpd Lhvcqaeo Pda Seoa? E pdkqcdp jkp. Ep’o jkp v opknu pda Faye skqhy pahh ukq. Ep’o v Oepd hacajy. Yvnpd Lhvcqaeo svo v Yvng Hkny kb pda Oepd, ok lksanbqh vjy ok seoa da xkqhy qoa pda Bknxa pk ejbhqajxa pda ieyexdhknevjo pk xnavpa heba… Da dvy oqxd v gjkshayca kb pda yvng oeya pdvp da xkqhy araj gaal pda kjao da xvnay vwkqp bnki yuejc. Pda yvng oeya kb pda Bknxa eo v lvpdsvu pk ivju vwehepeao okia xkjoeyan pk wa qjjvpqnvh. Da waxvia ok lksanbqh… pda kjhu pdejc da svo vbnvey kb svo hkoejc deo lksan, sdexd arajpqvhhu, kb xkqnoa, da yey. Qjbknpqjvpahu, da pvqcdp deo vllnajpexa aranupdejc da gjas, pdaj deo vllnajpexa gehhay dei ej deo ohaal. Enkjex. Da xkqhy ovra kpdano bnki yavpd, wqp jkp deioahb.
+    Ydy tjp zqzm czvm ocz omvbzyt ja Yvmoc Kgvbpzdn Ocz Rdnz? D ocjpbco ijo. Do’n ijo v nojmt ocz Ezyd rjpgy ozgg tjp. Do’n v Ndoc gzbziy. Yvmoc Kgvbpzdn rvn v Yvmf Gjmy ja ocz Ndoc, nj kjrzmapg viy nj rdnz cz xjpgy pnz ocz Ajmxz oj diagpzixz ocz hdydxcgjmdvin oj xmzvoz gdaz… Cz cvy npxc v fijrgzybz ja ocz yvmf ndyz ocvo cz xjpgy zqzi fzzk ocz jizn cz xvmzy vwjpo amjh ytdib. Ocz yvmf ndyz ja ocz Ajmxz dn v kvocrvt oj hvit vwdgdodzn njhz xjindyzm oj wz piivopmvg. Cz wzxvhz nj kjrzmapg… ocz jigt ocdib cz rvn vamvdy ja rvn gjndib cdn kjrzm, rcdxc zqziopvggt, ja xjpmnz, cz ydy. Piajmopivozgt, cz ovpbco cdn vkkmziodxz zqzmtocdib cz fizr, oczi cdn vkkmziodxz fdggzy cdh di cdn ngzzk. Dmjidx. Cz xjpgy nvqz joczmn amjh yzvoc, wpo ijo cdhnzga.
 
 If you run into problems, consider the following:
 
